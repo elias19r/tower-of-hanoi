@@ -1,7 +1,9 @@
-Uma implementação do problema da Torre de Hanói
+A implementation of the problem Tower of Hanoi.
 
-Para compilar:
+To compile:
 	make
 
-Para executar:
+To run:
 	make run
+
+NOTE: The source code is commented in Portuguese language.
