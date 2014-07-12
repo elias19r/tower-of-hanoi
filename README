@@ -1,9 +1,0 @@
-An implementation of the problem Tower of Hanoi.
-
-To compile:
-	make
-
-To run:
-	make run
-
-NOTE: The source code is commented in Portuguese language.
