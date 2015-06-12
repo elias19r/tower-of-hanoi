@@ -1,6 +1,5 @@
 An implementation of the problem Tower of Hanoi
-
------------------------
+-----------------------------------------------
 
 To compile:
 
